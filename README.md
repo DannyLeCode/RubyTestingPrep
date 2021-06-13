@@ -1,1 +1,3 @@
 # RubyTestingPrep
+
+rails new finalproject
